@@ -24,7 +24,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'login module'),
+      
+      home: const MyHomePage(title: 'sign up module login module'),
     );
   }
 }
